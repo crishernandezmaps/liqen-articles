@@ -53,13 +53,4 @@ Desde Panamá, el agente de aduanas, Argenis Allen, de 28 años, explica que tra
 
 Debido a lo que dice fue su dedicación, y responsabilidad logró que la empresa le hiciera un contrato especial para tramitar la residencia. “Ellos pagaron todo el procedimiento y me lo descuentan del salario. Ahora mi estatus es de personal extranjero contratado con opción a residencia permanente”, puntualiza. 
 
-Fuente: Caraota digital
-
-Tsunami de talentos: Venezuela le da al mundo la mejor emigración de su historia
-
-Revista Venezolana es un medio de comunicación web y social media. Dirigido a los Venezolanos en el Exterior y en especial a los Venezolanos en España.
-
-Contamos con una edición impresa de publicación mensual, con un tiraje de 2.500 ejemplares, donde encuentras toda la información de relevancia, los mas destacados eventos, Noticias Consulares, tecnología entre otras. Esta revista la podrás encontrar en los principales locales Venezolanos en Madrid y en el Consulado de Venezuela en Madrid.
-
-Copyright © 2016 Revista Venezolana
 Source:https://www.revistavenezolana.com/2016/06/tsunami-talentos-venezuela-le-da-al-mundo-la-mejor-emigracion-historia/

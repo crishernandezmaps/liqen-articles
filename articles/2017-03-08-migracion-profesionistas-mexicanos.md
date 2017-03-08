@@ -1,8 +1,6 @@
 Los profesionales especializados enfrentan un complicado panorama laboral en México.
 
-La emigración de México a Estados Unidos ha disminuido, según datos oficiales de ambos países. Pero existe un grupo de mexicanos que parece caminar en sentido contrario a la tendencia.
-
-Cada año miles de profesionales abandonan el país en busca de mejores oportunidades o para huir de la inseguridad, reconocen especialistas y autoridades.
+La emigración de México a Estados Unidos ha disminuido, según datos oficiales de ambos países. Pero existe un grupo de mexicanos que parece caminar en sentido contrario a la tendencia. Cada año miles de profesionales abandonan el país en busca de mejores oportunidades o para huir de la inseguridad, reconocen especialistas y autoridades.
 
 Estados Unidos es el destino de la mayoría. La Secretaría de Educación Pública informó que en la última década se duplicó el número de mexicanos con licenciatura y posgrado que emigraron al país.
 

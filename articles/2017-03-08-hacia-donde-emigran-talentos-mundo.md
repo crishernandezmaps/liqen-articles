@@ -28,39 +28,4 @@ La investigación sostiene que la competencia por conseguir personas calificadas
 
 Aunque los patrones generales seguirán siendo similares, es probable que surjan y evolucionen diferentes formas de migración de trabajadores altamente calificados.
 
-Ruarte's - Washington CapitalWashington Lopez
-
-Zona de IntercambioJulio Guadalupe
-
-Analizando tus inversionesDiego Alonso Ruiz
-
-Evidencia para la gestiónVidenza Consultores
-
-Inversión e InfraestructuraDirector FRI-ESAN Sergio Bravo Orellana
-
-Envíenos sus comentarios
-
-
-Visite también:
-
-elcomercio.pe|
-peru21.pe|
-peru.com|
-depor.com|
-trome.pe|
-publimetro.pe|
-laprensa.pe|
-aptitus.com|
-neoauto.com|
-urbania.pe|
-ofertop.pe|
-clubsuscriptores.pe|
-comprabien.com|
-Perured.pe|
-shopin.pe|
-avansys.edu.pe|
-estilomio.com|
-Trabaja en el Grupo El Comercio
-
-
 Source:http://gestion.pe/empleo-management/hacia-donde-emigran-talentos-mundo-2173592

@@ -25,8 +25,5 @@ De todas formas, para que el “flujo de talentos” beneficie a los países lat
 En otras palabras, “la región deberá generar empleos de más calidad para satisfacer la creciente demanda de profesionales calificados”, afirma Botero.
 
 Esto ayudaría a que profesionales como Stefano tuvieran una puerta abierta para regresar a sus países.
-
-Lea este artículo en El País América
-
  
 Source:http://www.bancomundial.org/es/news/feature/2013/11/06/fuga-cerebros-latinoamerica
