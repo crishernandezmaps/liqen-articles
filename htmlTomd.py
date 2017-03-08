@@ -22,11 +22,10 @@ def getArticle(url):
     article_text = ''
     article = soup.find("body").findAll('p')
     for element in article:
-        article_text += '\n' + ''.join(element.findAll(text = True))
+        article_text += '\n' + ''.join(element.findAll(text = True)) + '\n'
 
-    path = os.path.join('../_posts', name)
+    path = os.path.join('articles', name)
 
-    # f = open(name,'w')
     f = open(path,'w')
     f.write(article_text)
     f.write(source)
