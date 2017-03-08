@@ -12,7 +12,6 @@ def getArticle(url):
     na = n[-1].replace("/", "")
     name = pre + na + '.md'
 
-
     source = 'Source:' + url
 
     result = requests.get(url)
